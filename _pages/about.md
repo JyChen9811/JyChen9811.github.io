@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Dr. Yukai Shi](https://scholar.google.com/citations?user=z_tI-X4AAAAJ&hl=en). Before that, I received my B.E. degree and advised by [Prof. Jie Xu](https://scholar.google.com/citations?hl=zh-CN&user=HPUG2jwAAAAJ&view_op=list_works&sortby=pubdate) in the School of Information Engineering, Guangdong University of Techonology. 
 
-Research interest: Human Synthesis, Virutual Try-on, Domain Adaption, Self-Supervised Learning. 
+Research interest: Human Synthesis, Virutual Try-on, Diffusion Model, AIGC. 
 
 ***Never stop looking for collaboration, kindly contact me via email.***
 
