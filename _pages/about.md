@@ -17,7 +17,7 @@ Research interest: Human Synthesis, Virutual Try-on, Diffusion Model, AIGC.
 
 
 # 🔥 News
-- *2022.10*: 🎉🎉 One paper about ***virtual try-on*** got the **major revision** by IEEE TMM.
+- *2022.12*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM.
 - *2022.08*: 🎉🎉 One paper about ***real world image denosing*** was accpeted by KBS [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)], and the training code was released in [DnSwin](https://github.com/House-Leo/DnSwin), congrats to Hao Li.
 
 # 📝 Publications 
@@ -30,7 +30,7 @@ Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)]
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, **Junyang Chen**, Yukai Shi, Hao Li, Tianshui Chen, Liang Lin \
-IEEE Transactions on Multimedia (T-MM), *major revision*, 2022.
+IEEE Transactions on Multimedia (T-MM), 2022.
 
 #### Challenge Report
 - ***NTIRE 2022 challenge on stereo image super-resolution: Methods and results*** \
