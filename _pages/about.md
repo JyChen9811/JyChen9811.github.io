@@ -17,7 +17,7 @@ Research interest: Human Synthesis, Virutual Try-on, Diffusion Model, AIGC.
 
 
 # 🔥 News
-- *2022.12*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM, and the official code was released in [DOC-VTON](https://github.com/JyChen9811/DOC-VTON). Besides, we provide visualization results of various state-of-the-art methods, and auxiliary data of VITON and VITON-HD.
+- *2022.12*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)], and the official code was released in [DOC-VTON](https://github.com/JyChen9811/DOC-VTON). Besides, we provide visualization results of various state-of-the-art methods, and auxiliary data of VITON and VITON-HD.
 - *2022.08*: 🎉🎉 One paper about ***real world image denosing*** was accpeted by KBS [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)], and the training code was released in [DnSwin](https://github.com/House-Leo/DnSwin), congrats to Hao Li.
 
 # 📝 Publications 
@@ -25,7 +25,7 @@ Research interest: Human Synthesis, Virutual Try-on, Diffusion Model, AIGC.
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, **Junyang Chen**, Yukai Shi, Hao Li, Tianshui Chen, Liang Lin \
-IEEE Transactions on Multimedia (T-MM), 2022. [[code](https://github.com/JyChen9811/DOC-VTON)]
+IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf) [code](https://github.com/JyChen9811/DOC-VTON)]
 
 #### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
