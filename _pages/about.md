@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Dr. Yukai Shi](https://scholar.google.com/citations?user=z_tI-X4AAAAJ&hl=en). Before that, I received my B.E. degree and advised by [Prof. Jie Xu](https://scholar.google.com/citations?hl=zh-CN&user=HPUG2jwAAAAJ&view_op=list_works&sortby=pubdate) in the School of Information Engineering, Guangdong University of Techonology. 
+I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. degree and advised by [Prof. Jie Xu](https://scholar.google.com/citations?hl=zh-CN&user=HPUG2jwAAAAJ&view_op=list_works&sortby=pubdate) in the School of Information Engineering, Guangdong University of Techonology. 
 
-Research interest: Human Synthesis, Virutual Try-on, Diffusion Model, AIGC. 
+Research interest: AI for Human Centric (Virtual Try-on, Human Synthesis, 3D Human Pose and Shape Reconstruction), Diffusion. 
 
 ***Never stop looking for collaboration, kindly contact me via email.***
 
@@ -25,7 +25,7 @@ Research interest: Human Synthesis, Virutual Try-on, Diffusion Model, AIGC.
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, **Junyang Chen**, Yukai Shi, Hao Li, Tianshui Chen, Liang Lin \
-IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf) [code](https://github.com/JyChen9811/DOC-VTON)]
+IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 
 #### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
