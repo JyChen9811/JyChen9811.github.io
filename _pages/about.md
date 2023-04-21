@@ -11,7 +11,9 @@ redirect_from:
 
 I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. degree and advised by [Prof. Jie Xu](https://scholar.google.com/citations?hl=zh-CN&user=HPUG2jwAAAAJ&view_op=list_works&sortby=pubdate) in the School of Information Engineering, Guangdong University of Techonology. 
 
-Research interest: AI for Human Centric (Virtual Try-on, Human Synthesis, 3D Human Pose and Shape Reconstruction), Diffusion. 
+Now I am a visiting student in the School of Computer Science and Engineering, [IMAG](https://imag-njust.net/), Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+
+Research interest: Image/Video Deblurring, AI for Human Centric (Virtual Try-on, Human Synthesis), Diffusion. 
 
 ***Never stop looking for collaboration, kindly contact me via email.***
 
