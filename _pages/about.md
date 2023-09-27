@@ -53,8 +53,10 @@ CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTI
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
  -->
 # 🎖 Honors and Awards
-- *2021.9* The First Class Scholarship, GDUT.
-- *2022.9* The First Class Scholarship, GDUT.
+- *2023.9* National Scholarship.
+- *2023.9* First Class Scholarship, GDUT.
+- *2022.9* First Class Scholarship, GDUT.
+- *2021.9* First Class Scholarship, GDUT.
 
 # 📖 Educations
 - *2021.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
