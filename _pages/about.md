@@ -26,7 +26,7 @@ Research interest: Image/Video Deblurring, AI for Human Centric (Virtual Try-on,
 
 #### Human-centric Visual Generation
 - ***Open-World Pose Transfer via Sequential Test-Time Adaption*** \
-**Junyang Chen**, Xiaoyu Xian, Zhijing Yang, Tianshui Chen, Yongyi Lu, Yukai Shi, Jinshan Pan, Liang Lin \
+**Junyang Chen**, Xiaoyu Xian, Zhijing Yang, Yukai Shi, Jinshan Pan, Liang Lin \
 arXiv pre-print, [[arxiv](https://arxiv.org/abs/2303.10945)]
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, **Junyang Chen**, Yukai Shi, Hao Li, Tianshui Chen, Liang Lin \
