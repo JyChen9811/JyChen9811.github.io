@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 
-I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Prof. Zhijing Yang](https://ieeexplore.ieee.org/author/38512188800). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. degree and advised by [Prof. Jie Xu](https://scholar.google.com/citations?hl=zh-CN&user=HPUG2jwAAAAJ&view_op=list_works&sortby=pubdate) in the School of Information Engineering, Guangdong University of Techonology. 
+I am currently a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm) and [Prof. Jinshan Pan](https://jspan.github.io/). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. and M.S. degree from School of Information Engineering, Guangdong University of Technology (GDUT).
 
-Now I am a visiting student in the School of Computer Science and Engineering, [IMAG](https://imag-njust.net/), Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
-
-Research interest: Image/Video Deblurring, AI for Human Centric (Virtual Try-on, Human Synthesis), Diffusion. 
+Research interest: Image/Video Enhancement, Diffusion. 
 
 ***Never stop looking for collaboration, kindly contact me via email.***
 
