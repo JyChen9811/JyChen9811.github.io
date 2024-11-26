@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junyang Chen (陈俊阳)"
-description              : "Master at GDUT. "
+description              : "Ph.D. candidate at NJUST. "
 repository               : "JyChen9811/JyChen9811.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "JunYang Chen"
   avatar           : "images/cjy.jpg"
-  bio              : "Guangdong University of Technology"
-  location         : "Guangzhou, China"
+  bio              : "Nanjing University of Science and Technology"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XuWAywYAAAAJ&hl=zh-CN"
