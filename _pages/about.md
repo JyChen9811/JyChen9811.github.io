@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm) and [Prof. Jinshan Pan](https://jspan.github.io/). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. and M.S. degree from School of Information Engineering, Guangdong University of Technology (GDUT).
+I am currently a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/) and [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. and M.S. degree from School of Information Engineering, Guangdong University of Technology (GDUT).
 
 Research interest: Image/Video Enhancement, Diffusion. 
 
