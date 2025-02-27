@@ -25,7 +25,7 @@ Research interest: Image/Video Enhancement, Diffusion.
 #### Image/Video Enhancement and Analysis
 - ***FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution*** \
 **Junyang Chen**, Jinshan Pan, Jiangxin Dong \
-arXiv pre-print, [[arxiv](https://arxiv.org/abs/2411.18824)]
+CVPR, 2025. [[arxiv](https://arxiv.org/abs/2411.18824)]
 #### Human-centric Visual Generation
 - ***Open-World Pose Transfer via Sequential Test-Time Adaption*** \
 **Junyang Chen**, Xiaoyu Xian, Zhijing Yang, Yukai Shi, Jinshan Pan, Liang Lin \
