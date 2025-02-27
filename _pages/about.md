@@ -17,11 +17,15 @@ Research interest: Image/Video Enhancement, Diffusion.
 
 
 # 🔥 News
+- *2025.2*: 🎉🎉 One paper about ***Faithful Image Super-resolution*** was accpeted by CVPR 2025 [[arxiv](https://arxiv.org/abs/2411.18824)], and the official code was released in [FaithDiff](https://github.com/JyChen9811/FaithDiff).
 - *2023.1*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)], and the official code was released in [DOC-VTON](https://github.com/JyChen9811/DOC-VTON). Besides, we provide visualization results of various state-of-the-art methods, and auxiliary data of VITON and VITON-HD.
 - *2022.08*: 🎉🎉 One paper about ***real world image denosing*** was accpeted by KBS [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)], and the training code was released in [DnSwin](https://github.com/House-Leo/DnSwin), congrats to Hao Li.
 
 # 📝 Publications 
-
+#### Image/Video Enhancement and Analysis
+- ***FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution*** \
+**Junyang Chen**, Jinshan Pan, Jiangxin Dong \
+arXiv pre-print, [[arxiv](https://arxiv.org/abs/2411.18824)]
 #### Human-centric Visual Generation
 - ***Open-World Pose Transfer via Sequential Test-Time Adaption*** \
 **Junyang Chen**, Xiaoyu Xian, Zhijing Yang, Yukai Shi, Jinshan Pan, Liang Lin \
@@ -35,13 +39,13 @@ IEEE Transactions on Multimedia (T-MM), 2023. [[arxiv](https://arxiv.org/pdf/230
 Hao Li, Zhijing Yang, Xiaobin Hong, Yukai Shi, **Junyang Chen**, Jinshan Pan \
 Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)] [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)] [[code](https://github.com/House-Leo/DnSwin)]
 
-#### Challenge Report
+<!-- #### Challenge Report
 - ***NTIRE 2023 challenge on stereo image super-resolution: Methods and results*** \
 Longguang Wang, Yulan Guo, **Junyang Chen**, et al. \
 CVPR Workshops, 2023. [[pdf](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Wang_NTIRE_2023_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf)]
 - ***NTIRE 2022 challenge on stereo image super-resolution: Methods and results*** \
 Longguang Wang, Yulan Guo, **Junyang Chen**, et al. \
-CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wang_NTIRE_2022_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)]
+CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wang_NTIRE_2022_Challenge_on_Stereo_Image_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)]-->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
