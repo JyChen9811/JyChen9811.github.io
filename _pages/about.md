@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/) and [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm). I collaborate with [Prof. Yukai Shi](https://ykshi.github.io/). I am also a co-founder of [Low-Level CV](https://lowlevelcv.com/), an information platform dedicated to low-level computer vision.
+I am currently a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/) and [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm). I collaborate with [Prof. Yukai Shi](https://ykshi.github.io/). I am also a co-founder of [Low-Level CV Website](https://lowlevelcv.com/), an information platform dedicated to low-level computer vision.
 
 Research interest: Image/Video Enhancement, Diffusion. 
 
