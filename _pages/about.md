@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/) and [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm). I collaborate with [Prof. Yukai Shi](https://ykshi.github.io/). I am also a co-founder of [Low-Level CV Website](https://lowlevelcv.com/), an information platform dedicated to low-level computer vision.
+I am currently a second-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/) and [Prof. Jiangxin Dong](https://cs.njust.edu.cn/c0/f0/c11704a311536/page.htm). I collaborate with [Prof. Yukai Shi](https://ykshi.github.io/). I am also a co-founder of [Low-Level CV Website](https://lowlevelcv.com/), an information platform dedicated to low-level computer vision.
 
 Research interest: Image/Video Enhancement, Diffusion. 
 
@@ -17,6 +17,7 @@ Research interest: Image/Video Enhancement, Diffusion.
 
 
 # 🔥 News
+- *2025.11*: 🎉🎉 One paper about ***High-Quality Video Super-resolution*** has been released on [[arxiv](https://arxiv.org/pdf/2511.18786)].
 - *2025.7*: 🎉🎉Welcome to visit our [website](https://lowlevelcv.com/) (专注底层视觉领域的信息服务平台) for low-level vision !
 - *2025.2*: 🎉🎉 One paper about ***Faithful Image Super-resolution*** was accpeted by CVPR 2025 [[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)], and the official code was released in [FaithDiff](https://github.com/JyChen9811/FaithDiff).
 - *2023.1*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)], and the official code was released in [DOC-VTON](https://github.com/JyChen9811/DOC-VTON). Besides, we provide visualization results of various state-of-the-art methods, and auxiliary data of VITON and VITON-HD.
@@ -24,6 +25,9 @@ Research interest: Image/Video Enhancement, Diffusion.
 
 # 📝 Publications 
 #### Image/Video Enhancement and Analysis
+- ***STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution*** \
+**Junyang Chen**, Jiangxin Dong, Long Sun, Yixin Yang, Jinshan Pan \
+arxiv, 2025. [[arxiv](https://arxiv.org/pdf/2511.18786)]
 - ***FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution*** \
 **Junyang Chen**, Jinshan Pan, Jiangxin Dong \
 CVPR, 2025. [[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)]
