@@ -21,8 +21,6 @@ Research interest: Image/Video Enhancement, Diffusion.
 - *2025.11*: 🎉🎉 One paper about ***High-Quality Video Super-resolution*** has been released on [[arxiv](https://arxiv.org/pdf/2511.18786)].
 - *2025.7*: 🎉🎉Welcome to visit our [website](https://lowlevelcv.com/) (专注底层视觉领域的信息服务平台) for low-level vision !
 - *2025.2*: 🎉🎉 One paper about ***Faithful Image Super-resolution*** was accpeted by CVPR 2025 [[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)], and the official code was released in [FaithDiff](https://github.com/JyChen9811/FaithDiff).
-- *2023.1*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)], and the official code was released in [DOC-VTON](https://github.com/JyChen9811/DOC-VTON). Besides, we provide visualization results of various state-of-the-art methods, and auxiliary data of VITON and VITON-HD.
-- *2022.08*: 🎉🎉 One paper about ***real world image denosing*** was accpeted by KBS [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)], and the training code was released in [DnSwin](https://github.com/House-Leo/DnSwin), congrats to Hao Li.
 
 # 📝 Publications 
 #### Image/Video Enhancement and Analysis
