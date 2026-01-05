@@ -25,7 +25,7 @@ Research interest: Image/Video Enhancement, Diffusion.
 # 📝 Publications 
 #### Image/Video Enhancement and Analysis
 - ***Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution*** \
-Chenhao, **Junyang Chen**, Jiangxin Dong, Jinshan Pan \
+Chenhao, **Junyang Chen**, Jinshan Pan, Jiangxin Dong \
 arxiv, 2025. [[arxiv](https://arxiv.org/abs/2512.14061)]
 - ***STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution*** \
 **Junyang Chen**, Jiangxin Dong, Long Sun, Yixin Yang, Jinshan Pan \
