@@ -20,7 +20,7 @@ Research interest: Image/Video Enhancement, Diffusion.
 - *2026.2*: 🎉🎉 One paper about ***One-Step Image Super-resolution*** was accpeted by CVPR 2026 [[Paper](https://arxiv.org/pdf/2512.14061)].
 - *2026.2*: 🎉🎉 One paper about ***High-Quality Video Super-resolution*** was accpeted by CVPR 2026 [[Paper](https://arxiv.org/pdf/2511.18786)].
 - *2025.7*: 🎉🎉Welcome to visit our [website](https://lowlevelcv.com/) for low-level vision !
-- *2025.2*: 🎉🎉 One paper about ***Faithful Image Super-resolution*** was accpeted by CVPR 2025 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)], and the official code was released in [FaithDiff](https://github.com/JyChen9811/FaithDiff).
+- *2025.2*: 🎉🎉 One paper about ***Faithful Image Super-resolution*** was accpeted by CVPR 2025 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)].
 
 # 📝 Publications 
 #### Image/Video Enhancement and Analysis
