@@ -26,26 +26,26 @@ Research interest: Image/Video Enhancement, Diffusion.
 #### Image/Video Enhancement and Analysis
 - ***Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution*** \
 Chenhao, **Junyang Chen**, Jinshan Pan, Jiangxin Dong \
-CVPR, 2026. [[arxiv](https://arxiv.org/abs/2512.14061)]
+CVPR, 2026. [[Paper](https://arxiv.org/abs/2512.14061)] [[Code](https://github.com/Chanson94/CODSR)]
 - ***STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution*** \
 **Junyang Chen**, Jiangxin Dong, Long Sun, Yixin Yang, Jinshan Pan \
-CVPR, 2026. [[arxiv](https://arxiv.org/pdf/2511.18786)]
+CVPR, 2026. [[Paper](https://arxiv.org/pdf/2511.18786)] [[Code](https://github.com/JyChen9811/STCDiT)]
 - ***FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution*** \
 **Junyang Chen**, Jinshan Pan, Jiangxin Dong \
-CVPR, 2025. [[CVF](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)]
+CVPR, 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)] [[Code](https://github.com/JyChen9811/FaithDiff)]
 
 #### Human-centric Visual Generation
 - ***Open-World Pose Transfer via Sequential Test-Time Adaption*** \
 **Junyang Chen**, Xiaoyu Xian, Zhijing Yang, Yukai Shi, Jinshan Pan, Liang Lin \
-arXiv pre-print, [[arxiv](https://arxiv.org/abs/2303.10945)]
+arXiv pre-print, [[Paper](https://arxiv.org/abs/2303.10945)] [[Code](https://github.com/JyChen9811/OWPT)]
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, **Junyang Chen**, Yukai Shi, Hao Li, Tianshui Chen, Liang Lin \
-IEEE Transactions on Multimedia (T-MM), 2023. [[arxiv](https://arxiv.org/pdf/2301.00965.pdf)] [[code](https://github.com/JyChen9811/DOC-VTON)]
+IEEE Transactions on Multimedia (T-MM), 2023. [[Paper](https://arxiv.org/pdf/2301.00965.pdf)] [[Code](https://github.com/JyChen9811/DOC-VTON)]
 
 #### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
 Hao Li, Zhijing Yang, Xiaobin Hong, Yukai Shi, **Junyang Chen**, Jinshan Pan \
-Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)] [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)] [[code](https://github.com/House-Leo/DnSwin)]
+Knowledge-Based Systems (KBS), 2022. [[Paper](https://arxiv.org/abs/2207.13861)] [[Code](https://github.com/House-Leo/DnSwin)]
 
 # ⚔️ Challenge 
 - Achieved 2nd place on perceptual score in NTIRE 2026 Image Super-Resolution Challenge (×4). [[Report](https://arxiv.org/pdf/2604.14558)] \
