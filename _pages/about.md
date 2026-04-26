@@ -48,10 +48,10 @@ Hao Li, Zhijing Yang, Xiaobin Hong, Yukai Shi, **Junyang Chen**, Jinshan Pan \
 Knowledge-Based Systems (KBS), 2022. [[Paper](https://arxiv.org/abs/2207.13861)] [[Code](https://github.com/House-Leo/DnSwin)]
 
 # ⚔️ Challenge 
-- Achieved 2nd place on perceptual score in NTIRE 2026 Image Super-Resolution Challenge (×4). [[Report](https://arxiv.org/pdf/2604.14558)] \
-- Achieved 3rd place on subjective quality (Primary Track) in NTIRE 2026 Short-form UGC Video Restoration Challenge. [[Report](https://arxiv.org/pdf/2604.10551)] \
-- Achieved 2nd place in the Telephoto Image Enhancement Track of the Huawei Terminal 2025 “Camera Academic Star” Imaging Algorithm Challenge. [[News](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247844799&idx=1&sn=938748b0440153bc3e0c3b4977d46436&chksm=f85e02c662e654e817911939c50d8f14a02c14cd7b782dd23ec8c918cb2d44c1f434afe60e04&scene=27)] \
-- Achieved 1st place across all tracks in AIM 2025 Robust Offline Video Super-Resolution Challenge. [[Report](https://openaccess.thecvf.com/content/ICCV2025W/AIM/papers/Karetin_AIM_2025_Challenge_on_Robust_Offline_Video_Super-Resolution_Dataset_Methods_ICCVW_2025_paper.pdf)] \
+- Achieved 2nd place on perceptual score in NTIRE 2026 Image Super-Resolution Challenge (×4) [[Report](https://arxiv.org/pdf/2604.14558)].
+- Achieved 3rd place on subjective quality (Primary Track) in NTIRE 2026 Short-form UGC Video Restoration Challenge [[Report](https://arxiv.org/pdf/2604.10551)].
+- Achieved 2nd place in the Telephoto Image Enhancement Track of the Huawei Terminal 2025 “Camera Academic Star” Imaging Algorithm Challenge [[News](https://mp.weixin.qq.com/s?__biz=MzUxMDE4MzAzOA==&mid=2247844799&idx=1&sn=938748b0440153bc3e0c3b4977d46436&chksm=f85e02c662e654e817911939c50d8f14a02c14cd7b782dd23ec8c918cb2d44c1f434afe60e04&scene=27)].
+- Achieved 1st place across all tracks in AIM 2025 Robust Offline Video Super-Resolution Challenge [[Report](https://openaccess.thecvf.com/content/ICCV2025W/AIM/papers/Karetin_AIM_2025_Challenge_on_Robust_Offline_Video_Super-Resolution_Dataset_Methods_ICCVW_2025_paper.pdf)].
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
