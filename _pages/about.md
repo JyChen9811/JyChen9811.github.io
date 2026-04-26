@@ -37,7 +37,7 @@ CVPR, 2025. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_
 #### Human-centric Visual Generation
 - ***Open-World Pose Transfer via Sequential Test-Time Adaption*** \
 **Junyang Chen**, Xiaoyu Xian, Zhijing Yang, Yukai Shi, Jinshan Pan, Liang Lin \
-arXiv pre-print, [[Paper](https://arxiv.org/abs/2303.10945)] [[Code](https://github.com/JyChen9811/OWPT)]
+arXiv pre-print. [[Paper](https://arxiv.org/abs/2303.10945)] [[Code](https://github.com/JyChen9811/OWPT)]
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, **Junyang Chen**, Yukai Shi, Hao Li, Tianshui Chen, Liang Lin \
 IEEE Transactions on Multimedia (T-MM), 2023. [[Paper](https://arxiv.org/pdf/2301.00965.pdf)] [[Code](https://github.com/JyChen9811/DOC-VTON)]
